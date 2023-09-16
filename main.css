@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    text-align: center;
 
 }   
 .background {
@@ -8,7 +9,6 @@
     height: 100vh;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
 
 }
 
@@ -23,14 +23,14 @@
 }
 
 .button {
-    width: 50px;
+    width: 65px;
     height: 50px;
     font-size: 25px;
     cursor: pointer;
     background-color: rgb(31,31,31);
     border: none;
     color: white;
-    margin: 3px;
+    margin: 2px;
     
 }
 
@@ -41,7 +41,7 @@
 #results {
     background-color: white;
     color: black;
-    width: 207px;
+    width: 265px;
     height: 30px;
     margin: 5px;
     text-align: right;
